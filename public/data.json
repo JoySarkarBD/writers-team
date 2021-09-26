@@ -1,0 +1,110 @@
+[
+    {
+        "name": "J. K. Rowling",
+        "key": 1,
+        "age": 56,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/J._K._Rowling_2010.jpg/220px-J._K._Rowling_2010.jpg",
+        "country": "England",
+        "fees": 530000,
+        "contact": "jk.rowling@email.com"
+    },
+    {
+        "name": "Akira Toriyama",
+        "key": 2,
+        "age": 66,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Akira_Toriyama.jpg/220px-Akira_Toriyama.jpg",
+        "country": "Japan",
+        "fees": 400000,
+        "contact": "akira.toriyama@email.com"
+    },
+    {
+        "name": "Nora Roberts",
+        "key": 3,
+        "age": 70,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/NoraRoberts.jpg/220px-NoraRoberts.jpg",
+        "country": "U.S.",
+        "fees": 48000,
+        "contact": "nora.roberts@email.com"
+    },
+    {
+        "name": "Paulo Coelho",
+        "key": 4,
+        "age": 74,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Coelhopaulo26012007-1.jpg/220px-Coelhopaulo26012007-1.jpg",
+        "country": "Brazil",
+        "fees": 52000,
+        "contact": "paulo.coelho@email.com"
+    },
+    {
+        "name": "James Patterson",
+        "key": 5,
+        "age": 74,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/James_Patterson.jpg/220px-James_Patterson.jpg",
+        "country": "U.S.",
+        "fees": 80000,
+        "contact": "james.patterson@email.com"
+    },
+    {
+        "name": "E. L. James",
+        "key": 6,
+        "age": 58,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/E._L._James_-_2019_%28cropped%29.jpg/220px-E._L._James_-_2019_%28cropped%29.jpg",
+        "country": "England.",
+        "fees": 80000,
+        "contact": "e.l.james@email.com"
+    },
+    {
+        "name": "Stephenie Meyer",
+        "key": 7,
+        "age": 47,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Stephenie_Meyer_by_Gage_Skidmore.jpg/220px-Stephenie_Meyer_by_Gage_Skidmore.jpg",
+        "country": "U.S.",
+        "fees": 82000,
+        "contact": "stephenie.meyer@email.com"
+    },
+    {
+        "name": "Hirohiko Araki",
+        "key": 8,
+        "age": 61,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hirohiko_Araki_2013_-_cropped.jpg/220px-Hirohiko_Araki_2013_-_cropped.jpg",
+        "country": "Japan.",
+        "fees": 90000,
+        "contact": "hirohiko.araki@email.com"
+    },
+    {
+        "name": "Robin Cook",
+        "key": 9,
+        "age": 81,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Robin_Cook_in_Warsaw_Poland_2008.jpg/220px-Robin_Cook_in_Warsaw_Poland_2008.jpg",
+        "country": "U.S",
+        "fees": 45000,
+        "contact": "robin.cook@email.com"
+    },
+    {
+        "name": "Wilbur Smith",
+        "key": 10,
+        "age": 88,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wilbur_Smith.jpg/220px-Wilbur_Smith.jpg",
+        "country": "Northern Rhodesia",
+        "fees": 90000,
+        "contact": "wilbur.smith@email.com"
+    },
+    {
+        "name": "Patricia Cornwell",
+        "key": 11,
+        "age": 65,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Patricia_Cornwell_in_2016.jpg/200px-Patricia_Cornwell_in_2016.jpg",
+        "country": "U.S.",
+        "fees": 92000,
+        "contact": "patricia.cornwell@email.com"
+    },
+    {
+        "name": "Ramachandra Guha",
+        "key": 12,
+        "age": 63,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ramachandra_Guha_in_2016.png/220px-Ramachandra_Guha_in_2016.png",
+        "country": "India.",
+        "fees": 52000,
+        "contact": "ramachandra.guha@email.com"
+    }
+]
